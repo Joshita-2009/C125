@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.copy_right_footer{
+    position: fixed;
+    line-height: 5;
+    bottom: 0;
+    width: 100%;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+}
+h1{
+    font-style:italic;
+    color:black;
+    background-color:  bisque;
+}
+.heading{
+    font-size: medium;
+    margin: 0%;
+    width: 90%;
+    box-shadow:7px 5px 4px moccasin;
+}
